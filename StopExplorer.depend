@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509517766 source:c:\users\administrator\onedrive\stopexplorer\main.cpp
+	<windows.h>
+	<tchar.h>
+	"resource.h"
+
+1509517764 c:\users\administrator\onedrive\stopexplorer\resource.h
+
+1509517765 source:c:\users\administrator\onedrive\stopexplorer\resource.rc
+	"resource.h"
+
